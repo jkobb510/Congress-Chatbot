@@ -1,3 +1,4 @@
+
 # GPT-4 & LangChain - Create a ChatGPT Chatbot for Your PDF Files
 
 Use the new GPT-4 api to build a chatGPT chatbot for multiple Large PDF files.
@@ -59,6 +60,10 @@ PINECONE_INDEX_NAME=
 ## Convert your PDF files to embeddings
 
 **This repo can load multiple PDF files**
+
+Used https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough/blob/main/README.md as a reference
+
+Create a folder called `docs` in the root of the project. This is where you will add your PDF files.
 
 1. Inside `docs` folder, add your pdf files or folders that contain pdf files.
 
