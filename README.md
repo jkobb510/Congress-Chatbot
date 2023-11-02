@@ -1,3 +1,5 @@
+While this is deployed as website, there needs to be updates so that the the bot can actually fetch data from a document. User will need their own API key. 
+https://pdf-chatbot-one.vercel.app/
 
 https://user-images.githubusercontent.com/41555063/236937901-1f9e3878-adfd-4268-8bf9-2c31d17bf08c.mov
 
