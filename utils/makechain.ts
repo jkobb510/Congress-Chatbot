@@ -66,11 +66,6 @@ export const makeChain = (retriever: VectorStoreRetriever) => {
       chat_history: (input) => input.chat_history,
       question: (input) => input.question,
     },
-<<<<<<< HEAD
-  );
-  return chain;
-};
-=======
     answerPrompt,
     model,
     new StringOutputParser(),
@@ -88,4 +83,3 @@ export const makeChain = (retriever: VectorStoreRetriever) => {
 
   return conversationalRetrievalQAChain;
 };
->>>>>>> 31aec79 (Update LangChain and Pinecone client, use expression language for chain)
